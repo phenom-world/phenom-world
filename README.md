@@ -70,11 +70,6 @@ I love creating experiences that feel smooth, intuitive, and reliable — from t
   <a href = "https://www.linkedin.com/in/tijjken/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
-## Github Stats 
-[![Ubaydah's GitHub stats](https://github-readme-stats.vercel.app/api?username=phenom-world&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phenom-world&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Github Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phenom-world&theme=dark&hide_border=true)](https://git.io/streak-stats)
